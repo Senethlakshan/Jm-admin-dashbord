@@ -13,6 +13,7 @@ export default function Main(prop){
         <h1>Main page</h1>
         {name}
         {products.title}
+        <h2>recat hooks deve</h2>
         </>
     );
 }
